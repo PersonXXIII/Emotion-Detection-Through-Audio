@@ -2,3 +2,5 @@ Flask
 transformers 
 torch
 librosa
+numpy
+scikit-learn.
